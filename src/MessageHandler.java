@@ -28,7 +28,7 @@ class MessageHandler {
 
     private static int GROUP_ID = 179103201;
     private static String ACCESS_TOKEN =
-            "6dbc1bd443d56c389a4a1052c5c42543f91051740cf321b918b484c1a8ac76619175fa2343fb4200d00eb";
+            "..."; // ключ доступа из моего сообщества
 
     private int userId = -1;
     private GroupActor actor = new GroupActor(GROUP_ID, ACCESS_TOKEN);
